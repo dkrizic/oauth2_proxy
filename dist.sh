@@ -32,3 +32,4 @@ for os in windows linux darwin; do
     mv $TARGET.tar.gz $DIR/dist
     popd
 done
+
